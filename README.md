@@ -1,4 +1,3 @@
 # quiz
 
-I am just learning python
-\nMade this quiz for fun
+I am just learning python. Made this quiz for fun.
