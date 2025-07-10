@@ -1,4 +1,4 @@
 # quiz
 
 I am just learning python
-Made this quiz for fun
+\nMade this quiz for fun
